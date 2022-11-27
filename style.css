@@ -1,0 +1,30 @@
+*{
+    background-color: rgb(250, 249, 244);
+    margin: 0 0px;
+    padding: 0 0;
+    text-decoration: none;
+
+}
+
+.Contents{
+    text-align: center;
+    width: 300px;
+    margin: auto auto;
+    border: 10px solid rgb(189, 13, 13);
+    box-shadow: 1px 1px 10px orange;
+    color: rgb(90, 140, 143);
+    padding: 10px 0;
+    border-radius: 4%;
+}
+li {
+    list-style: none;
+    text-align: left;
+    padding: 5px 10px;
+    margin: 5px 0px;
+}
+
+.odinlogo {
+    height: auto auto;
+    text-align: center;
+    display: block;
+}
